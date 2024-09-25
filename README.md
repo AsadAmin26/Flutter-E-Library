@@ -1,6 +1,6 @@
-# e_library
+# Flutter-E-Library
 
-A new Flutter project.
+A flutter e-library that a user can read book and make their own notes
 
 ## Getting Started
 
